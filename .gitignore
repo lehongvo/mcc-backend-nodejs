@@ -1,0 +1,9 @@
+# Environment variable files
+.env
+config.env
+
+# Node modules
+node_modules/
+
+# Yarn lock file
+yarn.lock
